@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Video-Rental-Web-App/static/css/main.a617e044.chunk.css",
-    "main.js": "/Video-Rental-Web-App/static/js/main.8dbefade.chunk.js",
-    "main.js.map": "/Video-Rental-Web-App/static/js/main.8dbefade.chunk.js.map",
+    "main.js": "/Video-Rental-Web-App/static/js/main.4a1c7fbd.chunk.js",
+    "main.js.map": "/Video-Rental-Web-App/static/js/main.4a1c7fbd.chunk.js.map",
     "runtime-main.js": "/Video-Rental-Web-App/static/js/runtime-main.4d52512d.js",
     "runtime-main.js.map": "/Video-Rental-Web-App/static/js/runtime-main.4d52512d.js.map",
     "static/css/2.5593033f.chunk.css": "/Video-Rental-Web-App/static/css/2.5593033f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.5593033f.chunk.css",
     "static/js/2.999c1cfc.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.8dbefade.chunk.js"
+    "static/js/main.4a1c7fbd.chunk.js"
   ]
 }
