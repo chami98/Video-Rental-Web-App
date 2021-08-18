@@ -8,8 +8,8 @@ class MoviesTable extends Component {
     { path: "genre.name", label: "Genre" },
     { path: "numberInStock", label: "Stock" },
     { path: "dailyRentalRate", label: "Rate" },
-    {},
-    {},
+    { key: "like"},
+    { key: "delete"},
   ];
 
   render() {
@@ -17,7 +17,7 @@ class MoviesTable extends Component {
     return (
       <table className="table">
         <TableHeader
-          columns={this.coloumns}
+          columns={this.columns} 
           sortColumn={sortColumn}
           onSort={onSort}
         />
