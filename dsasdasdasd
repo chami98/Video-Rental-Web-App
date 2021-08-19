@@ -1,0 +1,83 @@
+[33mcommit 230c7fd1f76b7f109ab70aae15b14ac5627b01b7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Thu Aug 19 01:11:15 2021 +0530
+
+    Extracted table header
+
+[33mcommit 929c8c606b45cf312a0cb1495f95800cb3e3a002[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Thu Aug 19 00:34:16 2021 +0530
+
+    add gh pages
+
+[33mcommit e8d4670c8b26d3cbd5b2bf4e9d138937b800c599[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Mon Aug 16 23:05:05 2021 +0530
+
+    implemented sorting
+
+[33mcommit 38cfe7de7400449b0f0ac97f4196b9258e44ed61[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Mon Aug 16 21:53:40 2021 +0530
+
+    Raising the sort event
+
+[33mcommit cbc34dcdd27ea5ec75111f1c95e1b674935a911e[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Mon Aug 16 21:39:05 2021 +0530
+
+    Extracting moviesTable
+
+[33mcommit 70457d9b56c3fe84201b07ef92b2f0ba7ca85629[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Mon Aug 16 18:57:34 2021 +0530
+
+    Flitering - Adding all genres
+
+[33mcommit 15de1f13de997151a897bfb7a2e8a462481cdfaf[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Mon Aug 16 18:34:25 2021 +0530
+
+    implemented filtering in listgroup
+
+[33mcommit 4944eaa505889469c1104bf37b495b71b6a8a897[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Mon Aug 16 18:16:23 2021 +0530
+
+    added active class to the listgroup when user clicks on the genre
+
+[33mcommit 3dc34fc4b6ce45f513c635929449b3013405ab27[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Sat Aug 14 01:11:13 2021 +0530
+
+    Created listGroup component
+
+[33mcommit 8eb3d602c074942b64088199534bb6bbe61ceca7[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Thu Aug 12 19:34:10 2021 +0530
+
+    created pagination component
+
+[33mcommit b590683925224bbb00639af7aa61b53bd0c2dbcd[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Mon Aug 9 01:44:11 2021 +0530
+
+    completed like component by creating relevent function for like
+
+[33mcommit bd5ab250081397f5a31cbef0edc9ee57691c50ad[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Mon Aug 9 00:01:11 2021 +0530
+
+    created like component
+
+[33mcommit 7a5b2901a65b6e4942a8ad61a761a83f9fa482a0[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Sun Aug 8 23:53:53 2021 +0530
+
+    first commit
+
+[33mcommit ea96d9ce934e4c8d0614abeee54e784ea4d2cc3e[m
+Author: chamikara <chamikara98@gmail.com>
+Date:   Fri Aug 6 21:16:50 2021 +0530
+
+    Initialize project using Create React App
