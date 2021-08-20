@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 const NotFound = () => {
-  return null;
+  return <h1>Not Found!</h1>;
 };
 
 export default NotFound;
-null;

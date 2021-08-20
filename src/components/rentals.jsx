@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 const Rentals = () => {
-    return ( null );
+    return ( <h1>Rentals</h1> );
 }
  
 export default Rentals;
