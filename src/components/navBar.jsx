@@ -22,18 +22,23 @@ const NavBar = () => {
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
           <li className="nav-item ">
-            <NavLink className="nav-link" to="/movies">
+            <NavLink className="nav-link  nav-link" to="/movies">
               Movies <span className="sr-only">(current)</span>
             </NavLink>
           </li>
-          <li className="nav-item">
-            <NavLink className="nav-link" to="customers">
+          <li className="nav-item ">
+            <NavLink className="nav-link nav-link" to="customers">
               Customers
             </NavLink>
           </li>
-          <li className="nav-item">
-            <NavLink className="nav-link" to="rentals">
+          <li className="nav-item ">
+            <NavLink className="nav-link nav-link" to="rentals">
               Rentals
+            </NavLink>
+          </li>
+          <li>
+            <NavLink className="nav-link nav-link" to="/login">
+              Login
             </NavLink>
           </li>
         </ul>
