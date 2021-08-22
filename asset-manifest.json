@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Video-Rental-Web-App/static/css/main.436c314a.chunk.css",
-    "main.js": "/Video-Rental-Web-App/static/js/main.90c8e210.chunk.js",
-    "main.js.map": "/Video-Rental-Web-App/static/js/main.90c8e210.chunk.js.map",
-    "runtime-main.js": "/Video-Rental-Web-App/static/js/runtime-main.6bbfa4c6.js",
-    "runtime-main.js.map": "/Video-Rental-Web-App/static/js/runtime-main.6bbfa4c6.js.map",
+    "main.js": "/Video-Rental-Web-App/static/js/main.a1d31405.chunk.js",
+    "main.js.map": "/Video-Rental-Web-App/static/js/main.a1d31405.chunk.js.map",
+    "runtime-main.js": "/Video-Rental-Web-App/static/js/runtime-main.50a2a4b2.js",
+    "runtime-main.js.map": "/Video-Rental-Web-App/static/js/runtime-main.50a2a4b2.js.map",
     "static/css/2.5593033f.chunk.css": "/Video-Rental-Web-App/static/css/2.5593033f.chunk.css",
-    "static/js/2.e7ab4cc3.chunk.js": "/Video-Rental-Web-App/static/js/2.e7ab4cc3.chunk.js",
-    "static/js/2.e7ab4cc3.chunk.js.map": "/Video-Rental-Web-App/static/js/2.e7ab4cc3.chunk.js.map",
-    "static/js/3.490816a8.chunk.js": "/Video-Rental-Web-App/static/js/3.490816a8.chunk.js",
-    "static/js/3.490816a8.chunk.js.map": "/Video-Rental-Web-App/static/js/3.490816a8.chunk.js.map",
+    "static/js/2.02a269cc.chunk.js": "/Video-Rental-Web-App/static/js/2.02a269cc.chunk.js",
+    "static/js/2.02a269cc.chunk.js.map": "/Video-Rental-Web-App/static/js/2.02a269cc.chunk.js.map",
+    "static/js/3.c2e28326.chunk.js": "/Video-Rental-Web-App/static/js/3.c2e28326.chunk.js",
+    "static/js/3.c2e28326.chunk.js.map": "/Video-Rental-Web-App/static/js/3.c2e28326.chunk.js.map",
     "index.html": "/Video-Rental-Web-App/index.html",
     "static/css/2.5593033f.chunk.css.map": "/Video-Rental-Web-App/static/css/2.5593033f.chunk.css.map",
     "static/css/main.436c314a.chunk.css.map": "/Video-Rental-Web-App/static/css/main.436c314a.chunk.css.map",
-    "static/js/2.e7ab4cc3.chunk.js.LICENSE.txt": "/Video-Rental-Web-App/static/js/2.e7ab4cc3.chunk.js.LICENSE.txt",
+    "static/js/2.02a269cc.chunk.js.LICENSE.txt": "/Video-Rental-Web-App/static/js/2.02a269cc.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/Video-Rental-Web-App/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.6bbfa4c6.js",
+    "static/js/runtime-main.50a2a4b2.js",
     "static/css/2.5593033f.chunk.css",
-    "static/js/2.e7ab4cc3.chunk.js",
+    "static/js/2.02a269cc.chunk.js",
     "static/css/main.436c314a.chunk.css",
-    "static/js/main.90c8e210.chunk.js"
+    "static/js/main.a1d31405.chunk.js"
   ]
 }
