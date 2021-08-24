@@ -7,6 +7,15 @@ import { getGenres } from "../services/fakeGenreService";
 import MoviesTable from "./moviesTable";
 import _ from "lodash";
 
+const findIndexByDefault = (genresArr) => {
+  for (let i = 0; i < genresArr.length; i++) {
+    if (genresArr[i].default) {
+      return i;
+    }
+  }
+  return -1;
+};
+
 class Movies extends Component {
   state = {
     movies: [],
@@ -21,9 +30,11 @@ class Movies extends Component {
 
   componentDidMount() {
     const genres = [{ _id: "", name: "All Genres" }, ...getGenres()];
+    const defaultIndex = findIndexByDefault(genres);
     this.setState({
       movies: getMovies(),
       genres,
+      selectedGenre: genres[defaultIndex == -1 ? 0 : defaultIndex],
     });
   }
 
@@ -83,7 +94,7 @@ class Movies extends Component {
 
   render() {
     const { length: count } = this.state.movies;
-    const { pageSize, currentPage, sortColumn  } = this.state;
+    const { pageSize, currentPage, sortColumn } = this.state;
 
     if (count === 0) return <p>there are no movies in the database</p>;
 
