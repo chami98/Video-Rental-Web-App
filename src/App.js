@@ -25,7 +25,7 @@ class App extends Component {
             <Route path="/rentals" component={Rentals} />
             <Route path="/not-found" component={NotFound} />
             <Redirect from="/" exact to="movies" />
-            <Redirect exact to="not-found" />
+            <Redirect exact to="/not-found" />
           </Switch>
         </main>
       </React.Fragment>
